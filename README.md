@@ -57,3 +57,16 @@ The goal is to **accelerate contract review workflows** while maintaining accura
 - [Generative AI RFP Helper](#) – Automates proposal responses  
 - [Responsible AI Checklist](#) – Bias, fairness, and transparency framework  
 - [AI PM Roadmaps](#) – Example PRDs and prioritization templates for AI features
+
+## 📂 Demo / How to Use
+
+You can explore the AI Contract Analyzer prototype here:
+
+- [Python Script Demo](contract_analyzer.py)  
+  Run this script to see how the AI summarizes contracts and flags missing clauses.
+
+*Instructions:*
+1. Clone the repo to your local machine.
+2. Set your OpenAI API key in the script.
+3. Run the script: `python contract_analyzer.py`
+4. View the output summary and clause check.
